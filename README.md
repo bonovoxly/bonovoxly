@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+![bill and dogfriend](./bill-and-dogfriend-small.png)
+
+My name is Bill Cawthra, I like to do [teh cloud things](https://www.youtube.com/watch?v=8Ecdn5SGT1E) and devops thingies.
+
+I like to blog, find it difficult to make time, but it's here...  <https://blog.billyc.io>.
+
+My repos are here, many are old but are good historical examples. <https://github.com/bonovoxly?tab=repositories>
+
 <!--
 **bonovoxly/bonovoxly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
